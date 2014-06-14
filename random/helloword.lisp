@@ -8,3 +8,10 @@
 
 (write-line "hello world 3")
 (write-line "hello world 3")
+
+(defun hw ()
+  (print "hello world 4"))
+
+(hw)
+(hw)
+
